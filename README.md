@@ -59,3 +59,4 @@ Here is a screenshot from sample run of this test suite (the JSON is also availa
 
 ## GitHub Automation
 This repository can be used for Jenkins build automation with hooks.
+Testing Github and Jenkins integration
