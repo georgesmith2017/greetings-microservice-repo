@@ -43,9 +43,9 @@ docker build -t autotrader:latest Dockerfile .
 ## Location
 
 >src/test/postman/  
-|-- Autotrader.postman_test_run_2019-11-22.json  
-|-- Autotrader.postman_tests_2019-11-21.json  
-|-- test_results_screenshot_2019-11-22.jpg  
+|-- Autotrader.postman_test_run_2025-01-22.json  
+|-- Autotrader.postman_tests_2025-01-21.json  
+|-- test_results_screenshot_2025-01-22.jpg  
 
 [Postman](https://www.getpostman.com/) is the tool of choice. You can import the test suite from the following file:
 
@@ -58,6 +58,4 @@ Here is a screenshot from sample run of this test suite (the JSON is also availa
 ![Autotrader Integration Tests Run](src/test/postman/test_results_screenshot_2019-11-22.jpg)
 
 ## GitHub Automation
-
-_GitHub Webhook_  
-![GitHub Webhook](notes/github_webkook.jpg)
+This repository can be used for Jenkins build automation with hooks.
