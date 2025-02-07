@@ -55,7 +55,7 @@ docker build -t autotrader:latest Dockerfile .
 
 Here is a screenshot from sample run of this test suite (the JSON is also available alongside the test suite mentioned above):
 
-![Autotrader Integration Tests Run](src/test/postman/test_results_screenshot_2019-11-22.jpg)
+![Autotrader Integration Tests Run](src/test/postman/test_results_screenshot_2025-01-22.jpg)
 
 ## GitHub Automation
 This repository can be used for Jenkins build automation with hooks.
